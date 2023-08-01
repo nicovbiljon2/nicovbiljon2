@@ -4,12 +4,12 @@ Hi 👋 My name is Nico van Biljon
 Spares Parts Coordinator
 ------------------------
 
-I am a Spare Parts Coordinator and currently learning Python.
+I am a Spare Parts Coordinator.
 
 * 🌍  I'm based in Randburg
 * ✉️  You can contact me at [nico.vbiljon@gmail.com](mailto:nico.vbiljon@gmail.com)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Flask and Django
+* 🤝  I'm open to collaborating on Python Web Development with Flask and Django
 
 ### Skills
 
