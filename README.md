@@ -8,7 +8,7 @@ I am a Spare Parts Coordinator.
 
 * 🌍  I'm based in Randburg
 * ✉️  You can contact me at [nico.vbiljon@gmail.com](mailto:nico.vbiljon@gmail.com)
-* 🧠  I'm currently learning Software Engineering through HyperionDev.
+* 🧠  I'm currently studying Software Engineering at HyperionDev.
 * 🤝  I'm open to collaborating on Python Web Development with Flask and Django
 
 ### Skills
