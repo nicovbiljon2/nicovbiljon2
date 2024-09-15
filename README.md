@@ -10,7 +10,6 @@ My career goal is to become a Junior Frontend Developer hence, me currently stud
 
 * 🌍  I'm based in Randburg
 * ✉️  You can contact me at [nico.vbiljon@gmail.com](mailto:nico.vbiljon@gmail.com)
-* 🧠  I'm currently studying Software Development.
 * 🤝  I'm open to collaborating on Web Development 
 
 Skills
