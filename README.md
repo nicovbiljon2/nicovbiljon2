@@ -4,7 +4,7 @@ Hi 👋 My name is Nico van Biljon
 Spares Parts Coordinator
 ------------------------
 I am passionate spare parts coordinator with a keen interest in web development and creating dynamic responsive websites.The beauty of continuous learning, web development and keeping up with the latest technologies in the industry.
-My career goal is to become a Junior Frontend Developer hence, me currently studying Software Development at CodeSpace Academy to improve my skills in frontend development, HTML, CSS, JavaScript, and Github Desktop.
+My career goal is to become a Junior Frontend Developer hence, me currently studying The Complete JavaScript Course 2025 on Udemy to improve my skills in frontend development, HTML, CSS, JavaScript, and Github Desktop.
 
 * 🌍  I'm based in Randburg
 * ✉️  You can contact me at [nico.vbiljon@gmail.com](mailto:nico.vbiljon@gmail.com)
