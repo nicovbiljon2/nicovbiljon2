@@ -12,13 +12,19 @@ I am passionate about continuous learning, creating solutions through code, and 
 * 🌍  I'm based in Randburg
 * ✉️  You can contact me at [nico.vbiljon@gmail.com](mailto:nico.vbiljon@gmail.com)
 * 🤝  I'm open to collaborating on Python projects, automation tools, and software development opportunities.
+
+Tools
+- 🐍 Python
+- 🧠 PyCharm
+- 💻 Visual Studio Code
+- 🐙 GitHub Desktop
+- 🔧 GitHub
   
 Skills
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
 </p>
 
