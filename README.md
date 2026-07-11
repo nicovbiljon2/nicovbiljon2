@@ -3,13 +3,16 @@ Hi 👋 My name is Nico van Biljon
 
 Spares Parts Coordinator
 ------------------------
-I am passionate spare parts coordinator with a keen interest in web development and creating dynamic responsive websites.The beauty of continuous learning, web development and keeping up with the latest technologies in the industry.
-My career goal is to become a Junior Frontend Developer hence, me currently studying The Complete JavaScript Course 2025 on Udemy to improve my skills in frontend development, HTML, CSS, JavaScript, and Github Desktop.
+Spare Parts Coordinator with a passion for technology, programming, and software development. I am currently expanding my skills in Python development through The Python Mega Course on Udemy, focusing on programming fundamentals, automation, databases, and building practical applications.
+
+My goal is to transition into a Junior Python Developer role by combining my problem-solving skills, attention to detail, and experience in managing technical processes with my growing software development skills.
+
+I am passionate about continuous learning, creating solutions through code, and staying current with modern technologies.
 
 * 🌍  I'm based in Randburg
 * ✉️  You can contact me at [nico.vbiljon@gmail.com](mailto:nico.vbiljon@gmail.com)
-* 🤝  I'm open to collaborating on Web Development 
-
+* 🤝  I'm open to collaborating on Python projects, automation tools, and software development opportunities.
+  
 Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
